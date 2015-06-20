@@ -11,6 +11,13 @@ It renders [networkx](https://networkx.github.io/) graphs into HTML page contain
 - pandas
 - networkx
 
+
+
+**Install**
+
+	python setup.py install
+
+
 **Usage**
 
     import networkx as nx
