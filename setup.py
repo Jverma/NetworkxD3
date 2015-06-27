@@ -26,6 +26,5 @@ setup(
 	'Progamming Language :: Python',
 	'Topic :: Software Development :: Libraries :: Python Modules'],
 	packages=packages,
-	package_data={'NetworkxD3':['Data/*.txt']},
 	license='MIT'
 	)			
