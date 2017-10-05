@@ -34,14 +34,3 @@ It renders [networkx](https://networkx.github.io/) graphs into HTML page contain
 	simpleNetworkx(G)
 	
 This will create an HTML page Net.html which contains the interactive plot. 
-
-For a quick introduction to rpy2, check out [this post on my blog](https://januverma.wordpress.com/2015/05/17/calling-r-from-python-using-rpy2/).
-    
-    
-    
-
-
-
-
-
-
