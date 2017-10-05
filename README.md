@@ -1,5 +1,7 @@
 # NetworkxD3
-D3 JavaScript networkx Graphs 
+## D3 JavaScript networkx Graphs 
+
+## Author: Janu Verma
 
 This is an python high-level interface to [Christopher Gandrud](http://christophergandrud.blogspot.com/p/biocontact.html)'s R package [networkD3](https://christophergandrud.github.io/networkD3/). 
 It renders [networkx](https://networkx.github.io/) graphs into HTML page containing a beautiful D3 visualization. Hence the name networkxD3 (shamelessly ripped from the original package networkD3), notice the x. 
